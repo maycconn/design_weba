@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-shadow: rgb(199, 21, 21) 1px -1px
+}
+
+
+body{
+    background-color: rgb(137, 109, 240);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table{
+    border-color: rgb(34, 223, 17);
+    border-style: dotted;
+    border-radius: 8px;
+}
+button{
+
+}
